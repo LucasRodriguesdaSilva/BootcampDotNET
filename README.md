@@ -1,3 +1,3 @@
 # Hello there! 
 
-## Aqui ira ser armazenados os meus projetos fetio no bootcamp .NET da DIO 
+## Aqui irá ser armazenados os meus projetos feitos no bootcamp .NET da DIO 
